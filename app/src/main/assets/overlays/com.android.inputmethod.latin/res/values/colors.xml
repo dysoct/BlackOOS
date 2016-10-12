@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="auto_correct_color_lxx_dark">#DBDBE1</color>
+    <color name="auto_correct_color_lxx_light">#DBDBE1</color>
+    <color name="emoji_tab_page_indicator_background_lxx_dark">#ff000000</color>
+    <color name="emoji_tab_page_indicator_background_lxx_light">#fff2f2f2</color>
+    <color name="gesture_floating_preview_color_lxx_dark">#cc1B1B21</color>
+    <color name="gesture_floating_preview_color_lxx_light">#cc303233</color>
+    <color name="gesture_trail_color_lxx_dark">#8C8C92</color>
+    <color name="gesture_trail_color_lxx_light">#4DB6AC</color>
+    <color name="highlight_color_lxx_dark">#4DB6AC</color>
+    <color name="highlight_color_lxx_light">#4DB6AC</color>
+    <color name="key_background_lxx_dark">#ff000000</color>
+    <color name="key_background_lxx_light">#ECEFF1</color>
+    <color name="key_background_pressed_lxx_dark">#727278</color>
+    <color name="key_background_pressed_lxx_light">#ffC4C4C4</color>
+    <color name="key_functional_text_color_lxx_dark">#DBDBE1</color>
+    <color name="key_functional_text_color_lxx_light">#ff424242</color>
+    <color name="key_hint_letter_color_lxx_dark">#727278</color>
+    <color name="key_hint_letter_color_lxx_light">#727278</color>
+    <color name="key_text_color_lxx_dark">#ffE4E4E4</color>
+    <color name="key_text_color_lxx_light">#ff424242</color>
+    <color name="sliding_key_input_preview_color_lxx_dark">#b3319fa7</color>
+    <color name="sliding_key_input_preview_color_lxx_light">#b3319fa7</color>
+    <color name="suggested_word_background_selected_lxx_dark">#727278</color>
+    <color name="suggested_word_background_selected_lxx_light">#727278</color>
+    <color name="suggested_word_color_lxx_dark">#DBDBE1</color>
+    <color name="suggested_word_color_lxx_light">#ff5C5C5C</color>
+    <color name="typed_word_color_lxx_dark">#ff7C7C7C</color>
+    <color name="typed_word_color_lxx_light">#ff9C9C9C</color>
+</resources>

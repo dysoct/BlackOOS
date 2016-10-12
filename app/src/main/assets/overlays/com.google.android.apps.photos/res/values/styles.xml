@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="Widget.MediaRouter.ChooserText.Primary.Light" parent="">
+        <item name="android:textColor">#deffffff</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Widget.MediaRouter.ChooserText.Secondary.Light" parent="">
+        <item name="android:textColor">#8affffff</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Widget.MediaRouter.ControllerText.Primary.Light" parent="">
+        <item name="android:textColor">#deffffff</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Widget.MediaRouter.ControllerText.Secondary.Light" parent="">
+        <item name="android:textColor">#deffffff</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Widget.MediaRouter.ControllerText.Title.Light" parent="">
+        <item name="android:textColor">#deffffff</item>
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Theme.Photos.Brit" parent="">
+        <item name="android:textColor">#deffffff</item>
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Widget.Design.FloatingActionButton" parent="@android:style/Widget">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:backgroundTint">@null</item>
+    </style>
+</resources>

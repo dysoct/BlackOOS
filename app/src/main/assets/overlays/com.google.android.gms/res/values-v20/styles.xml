@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="gh_appCopyrightStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#C8CCCB</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="gh_appTitleStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="gh_appVersionStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#C8CCCB</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+</resources>

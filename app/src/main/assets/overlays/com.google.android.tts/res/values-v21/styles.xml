@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+	<style name="platformDialogWhenLargeTheme" parent="@android:style/Theme.Material" />
+</resources>

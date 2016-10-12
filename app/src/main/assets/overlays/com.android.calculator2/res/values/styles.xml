@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="Theme" parent="@android:style/Theme.Material">
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+        <item name="android:colorPrimary">#ff000000</item>
+        <item name="android:statusBarColor">#ff000000</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>

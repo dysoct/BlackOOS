@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="launchscreens_product_logo_bottom">16.0dip</dimen>
+    <dimen name="launchscreens_google_logo_bottom">48.0dip</dimen>
+    <dimen name="selection_fh_radius">3.0dip</dimen>
+    <item type="dimen" name="m_entry_text_size_secondary">14.0sp</item>
+    <dimen name="m_text_size_body">14.0sp</dimen>
+    <item type="dimen" name="m_entry_text_size_primary">16.0sp</item>
+    <dimen name="m_text_size_subhead">16.0sp</dimen>
+    <dimen name="m_grid_tile_margin">2.0dip</dimen>
+    <dimen name="m_grid_footer_internal_padding">6.0dip</dimen>
+    <item type="dimen" name="m_entry_text_size_tertiary">12.0sp</item>
+    <dimen name="m_text_size_caption">12.0sp</dimen>
+    <dimen name="m_grid_6x">48.0dip</dimen>
+    <dimen name="m_grid_1x">8.0dip</dimen>
+    <dimen name="m_grid_2x">16.0dip</dimen>
+    <dimen name="m_text_size_title">20.0sp</dimen>
+    <item type="dimen" name="help_card_horizontal_padding">16.0dip</item>
+</resources>

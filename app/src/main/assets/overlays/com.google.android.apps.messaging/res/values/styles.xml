@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="ConversationListFragmentStartNewButtonStyle">
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:backgroundTint">@null</item>
+    </style>
+</resources>

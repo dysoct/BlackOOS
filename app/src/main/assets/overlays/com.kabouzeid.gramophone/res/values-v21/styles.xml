@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="Theme.MaterialMusic.Notification" parent="@android:style/TextAppearance.Material.Notification">
+		<item name="android:textColor">#ff4E4E4E</item>
+	</style>
+    <style name="Theme.MaterialMusic.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title">
+		<item name="android:textColor">#ff343434</item>
+	</style>
+</resources>

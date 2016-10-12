@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="analysis_result_detail_file_name_color">#246DD4</color>
+    <color name="analysis_result_file_grid_normal_color">@android:color/black</color>
+    <color name="background_default">@android:color/black</color>
+    <color name="background_floating_material_light">@android:color/black</color>
+    <color name="background_material_light">@android:color/black</color>
+    <color name="c_19000000">#19ffffff</color>
+    <color name="c_33000000">#33ffffff</color>
+    <color name="c_3f000000">#3fffffff</color>
+    <color name="c_66000000">#66ffffff</color>
+    <color name="c_99000000">#99ffffff</color>
+    <color name="c_cc000000">#ccffffff</color>
+    <color name="c_ebeced">@android:color/black</color>
+    <color name="c_es_actionbar_bg">#246DD4</color>
+    <color name="c_es_base_bg">@android:color/black</color>
+    <color name="c_f5f6f7">@android:color/black</color>
+    <color name="c_f5f6f8">@android:color/black</color>
+    <color name="es_base_divider_color">#4E4E54</color>
+    <color name="left_list_child_nomal">@android:color/black</color>
+    <color name="main_content_text">#DBDBE1</color>
+    <color name="music_library_player_view_bg_color">@android:color/black</color>
+    <color name="popupbox_content_text">#99ffffff</color>
+    <color name="tint_popmenu_item_icon">#DBDBE1</color>
+    <color name="tint_theme_item_icon">#DBDBE1</color>
+    <color name="tint_toolbar_bottom_icon">#DBDBE1</color>
+    <color name="notification_sensitive_bg_color">@android:color/black</color>
+    <color name="notification_sensitive_content_text_color">#DBDBE1</color>
+    <color name="notification_sensitive_title_text_color">#ffffffff</color>
+</resources>

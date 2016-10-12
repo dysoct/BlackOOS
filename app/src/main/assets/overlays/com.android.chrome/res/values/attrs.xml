@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="windowActionBar" format="boolean" />
+    <attr name="windowNoTitle" format="boolean" />
+    <attr name="colorPrimary" format="color" />
+    <attr name="colorPrimaryDark" format="color" />
+    <attr name="colorAccent" format="color" />
+    <attr name="floatLabelTextAppearance" format="reference" />
+    <attr name="floatLabelPaddingLeft" format="reference|dimension" />
+    <attr name="floatLabelPaddingRight" format="reference|dimension" />
+    <attr name="floatLabelPaddingTop" format="reference|dimension" />
+</resources>

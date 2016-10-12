@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+	<style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textColorSecondary">#ffffff</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+	<style name="MusicSettingsActivityTheme" parent="@android:style/Theme.Material.Settings">
+        <item name="android:colorPrimary">#ef6c00</item>
+        <item name="android:colorPrimaryDark">#bd4200</item>
+        <item name="android:colorAccent">#ef6c00</item>
+        <item name="android:colorControlActivated">#ef6c00</item>
+    </style>
+</resources>

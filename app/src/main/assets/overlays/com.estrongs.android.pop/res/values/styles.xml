@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppCompat" parent="@android:style/Theme">
+		<item name="android:backgroundTint">@android:color/black</item>
+	</style>
+	<style name="Platform.AppCompat.Light" parent="@android:style/Theme">
+		<item name="android:windowNoTitle">true</item>
+        <item name="android:colorPrimary">#246DD4</item>
+        <item name="android:colorPrimaryDark">#1760C7</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+	<style name="SetupTextStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="AccountSetupSubText" parent="">
+        <item name="android:textColor">#C8CCCB</item>
+        <item name="android:textSize">16.0sp</item>
+    </style>
+</resources>

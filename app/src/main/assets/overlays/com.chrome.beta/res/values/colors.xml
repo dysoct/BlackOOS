@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bookmark_detail_section">#ffffffff</color>
+    <color name="bookmark_detail_text">#ffffffff</color>
+    <color name="bookmark_icon_background_color">#ffffffff</color>
+    <color name="brit_accent">#ff4285f4</color>
+    <color name="compositor_tab_title_bar_text">#ffffffff</color>
+    <color name="dark_action_bar_color">#ff000000</color> <!-- Actionbar in Settings -->
+    <color name="default_primary_color">#ff000000</color> <!-- Actionbar in browser (Also shows in overview)-->
+    <color name="default_text_color">#ffffffff</color>
+    <color name="find_in_page_query_color">#ffffffff</color>
+    <color name="fre_light_text_color">#9B9BA1</color>
+    <color name="fre_text_color">#C8CCCB</color>
+    <color name="fre_title_color">#ffffffff</color>
+    <color name="icon_color">#ffffff</color> <!-- Icon Color -->
+    <color name="infobar_background">#ff000000</color>
+    <color name="light_active_color">#ff4285f4</color>
+    <color name="light_background_color">#ff000000</color>
+    <color name="light_normal_color">#9B9BA1</color>
+    <color name="ntp_bg">#ff000000</color>
+    <color name="ntp_list_header_text">#C8CCCB</color>
+    <color name="ntp_list_item_text">#C8CCCB</color>
+    <color name="pref_accent_color">#ff4285f4</color>
+    <color name="primary_text_default_material_light">#C8CCCB</color>
+    <color name="sad_tab_header_text_color">#ffffffff</color>
+    <color name="secondary_text_default_material_light">#C8CCCB</color>
+    <color name="settings_text">#ffffffff</color>
+    <color name="text_highlight_color">#56565C</color>
+    <color name="url_emphasis_default_text">#ffffffff</color>
+    <color name="url_emphasis_domain_and_registry">#ffffffff</color>
+    <color name="url_emphasis_non_emphasized_text">#80ffffff</color>
+</resources>

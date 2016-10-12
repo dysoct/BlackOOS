@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+	<style name="Theme.AppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
+		<item name="android:colorAccent">#ff4285f4</item>
+		<item name="android:textColorPrimary">#ffffffff</item>
+	</style>
+</resources>

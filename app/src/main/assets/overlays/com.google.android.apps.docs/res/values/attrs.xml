@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="icMenuAddCollaborator" format="reference" />
+    <attr name="icMenuMove" format="reference" />
+    <attr name="icMenuOffline" format="reference" />
+</resources>

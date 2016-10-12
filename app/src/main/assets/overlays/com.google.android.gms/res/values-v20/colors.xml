@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_blue_grey_800">#ff000000</color>
+    <color name="material_blue_grey_900">#ff000000</color> <!-- Actionbar -->
+    <color name="material_blue_grey_950">#ff000000</color> <!-- Statusbar -->
+    <color name="material_light_blue_700">#80cbc4</color>
+    <color name="primary_dark_material_light">#ff000000</color>
+    <color name="primary_material_light">#ff000000</color>
+    <color name="suw_navbar_bg_light">#ff000000</color>
+</resources>

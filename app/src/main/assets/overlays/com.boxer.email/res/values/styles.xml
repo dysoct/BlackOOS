@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="Theme.AppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog" />
+    <style name="Theme.AppCompat.Light.Dialog.Alert" parent="@android:style/Theme.Material.Dialog.Alert" />
+	<style name="ComposeFieldContentBase">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:minHeight">56.0dip</item>
+        <item name="android:background">#ff000000</item>
+    </style>
+    <style name="ComposeFieldLayout">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:addStatesFromChildren">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#ff000000</item>
+    </style>
+    <style name="ComposeEditTextView">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingTop">20.0dip</item>
+        <item name="android:paddingBottom">20.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#ff000000</item>
+    </style>
+    <style name="ComposeHeading">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#C8CCCB</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">56.0dip</item>
+        <item name="android:minHeight">56.0dip</item>
+        <item name="android:background">#ff000000</item>
+    </style>
+	<style name="ComposeFromTextViewStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat" parent="">
+		<item name="android:backgroundTint">@null</item>
+	</style>
+	<style name="AbstractFloatingActionButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">16.0dip</item>
+        <item name="android:backgroundTint">@null</item>
+    </style>
+    <style name="AccountSetup">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="android:backgroundTint">@null</item>
+    </style>
+</resources>

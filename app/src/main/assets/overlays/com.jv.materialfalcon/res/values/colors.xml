@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionBarColor">#384e77</color> <!-- Actionbar -->
+    <color name="statusBarColor">#2b3e5f</color> <!-- Statusbar -->
+    <color name="backgroundColor">#ff000000</color>
+    <color name="accentColor">#ff000000</color>
+    <color name="black">#ff000000</color>
+    <color name="background_floating_material_dark">#2D2D33</color>
+    <color name="accent_material_dark">#ff667CA5</color>
+</resources>

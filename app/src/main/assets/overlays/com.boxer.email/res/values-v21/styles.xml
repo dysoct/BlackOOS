@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="Theme.Light.Boxer.Settings" parent="@android:style/Theme.Material.Settings">
+		<item name="android:colorPrimary">#ff0288d1</item>
+        <item name="android:colorPrimaryDark">#ff0288d1</item>
+        <item name="android:colorAccent">#ff0288d1</item>
+        <item name="android:colorControlActivated">#ff0288d1</item>
+	</style>
+	<style name="Theme.Light.CM.Settings" parent="@android:style/Theme.Material.Settings">
+        <item name="android:colorPrimary">#ff0288d1</item>
+        <item name="android:colorPrimaryDark">#ff0288d1</item>
+        <item name="android:colorAccent">#ff0288d1</item>
+        <item name="android:colorControlActivated">#ff0288d1</item>
+    </style>
+    <style name="Theme.Light.Blu.blue.Settings" parent="@android:style/Theme.Material.Settings">
+        <item name="android:colorPrimary">#ff0288d1</item>
+        <item name="android:colorPrimaryDark">#ff0288d1</item>
+        <item name="android:colorAccent">#ff0288d1</item>
+        <item name="android:colorControlActivated">#ff0288d1</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:backgroundTint">#ff000000</item>
+    </style>
+    <style name="Platform.AppCompat" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:backgroundTint">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_bold">#A5BBC2</color>
+    <color name="accent_darker">#ffffffff</color>
+    <color name="accent_lighter">#98AEB5</color>
+    <color name="text_heading">#ffAAADAC</color>
+    <color name="text_item_subtitle">#ffAAADAC</color>
+    <color name="text_item_title">#ffffffff</color>
+</resources>

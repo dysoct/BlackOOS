@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:colorControlActivated">#ff4285f4</item> <!-- Switch on -->
+    </style>
+    <style name="BaseDialogTheme" parent="@android:style/Theme.Material.Dialog.MinWidth">
+        <item name="android:colorAccent">#ff4285f4</item>
+    </style>
+    <style name="BaseDialogThemeNoFrame" parent="@android:style/Theme.Material.Dialog.MinWidth">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:colorAccent">#ff4285f4</item>
+        <item name="android:windowElevation">0.0dip</item>
+    </style>
+    <style name="BaseDialogThemeWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:colorAccent">#ff4285f4</item>
+    </style>
+    <style name="BaseAppTheme" parent="@android:style/Theme.Material" />
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+	<style name="CakemixTheme.Preferences" parent="@android:style/Theme.Material" />
+	<style name="SearchTheme" parent="@android:style/Theme.Material" />
+    <style name="DetailInfoCard_Text">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="DetailInfoCard_Text.Label" parent="">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:layout_weight">0.35</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="GridTile">
+		<item name="android:backgroundTint">@android:color/black</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:layout_marginTop">2.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+        <item name="android:layout_marginBottom">2.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="GridText">
+        <item name="android:ellipsize">middle</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">#C8CCCB</item>
+    </style>
+    <style name="TextAppearancePrimary">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearanceSecondary">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#9B9BA1</item>
+    </style>
+    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    
+    <style name="ChoiceText" parent="">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">48.0dip</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+    </style>
+    <style name="ChoiceText.Title" parent="">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">48.0dip</item>
+    </style>
+    <style name="HorizontalPadder">
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+    </style>
+    <style name="PreLDialogTitleStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    
+    
+    <style name="CakemixTheme" parent="@android:style/Theme.Material">
+		<item name="android:textColor">#C8CCCB</item>
+        <item name="android:textColorPrimary">#C8CCCB</item>
+        <item name="android:textColorPrimaryInverse">@android:color/black</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:colorAccent">#ff4285f4</item>
+    </style>
+    <style name="CakemixTheme.SlimTitle" parent="@android:style/Theme.Material">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="HelpCardContentSeparator">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+    </style>
+    <style name="ActionSheet">
+        <item name="android:background">#ff000000</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="ListRow.TwoLine" parent="">
+        <item name="android:minHeight">72.0dip</item>
+        <item name="android:backgroundTint">#fafafa</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="BlackTitledDialog" parent="@android:style/Theme.Material.Dialog" />
+</resources>

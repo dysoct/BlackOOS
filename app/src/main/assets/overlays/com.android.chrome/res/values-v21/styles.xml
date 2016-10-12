@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:colorAccent">#ff4285f4</item>
+        <item name="android:colorControlActivated">#ff4285f4</item>
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:backgroundTint">#ff000000</item>
+    </style>
+    <style name="Platform.AppCompat.Light.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge" />
+    <style name="Base.Widget.AppCompat.ListView.DropDown" parent="@android:style/Widget.Material.ListView.DropDown">
+		<item name="android:backgroundTint">@null</item>
+	</style>
+</resources>

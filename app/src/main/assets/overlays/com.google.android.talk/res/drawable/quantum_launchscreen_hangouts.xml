@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="opaque"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/black" />
+    <item android:id="@id/launchscreens_product_logo" android:bottom="16.0dip">
+        <bitmap android:gravity="center" android:src="@android:color/black" />
+    </item>
+    <item android:id="@id/launchscreens_logo_text" android:bottom="48.0dip">
+        <bitmap android:gravity="bottom|center" android:src="@android:color/black" />
+    </item>
+</layer-list>

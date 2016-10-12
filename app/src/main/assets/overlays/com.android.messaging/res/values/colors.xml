@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_background_color">#4E9D7B</color>
+    <color name="action_bar_background_color_dark">#41906E</color>
+    <color name="archived_conversation_action_bar_background_color_dark">#4E9D7B</color>
+    <color name="chips_dropdown_text_highlighted">#4E9D7B</color>
+    <color name="cm_accent">#4E9D7B</color>
+    <color name="compose_send_text_color">#ffffffff</color>
+    <color name="contact_list_text_primary">#C8CCCB</color>
+    <color name="contact_list_text_secondary">#C8CCCB</color>
+    <color name="contact_picker_background">#ff000000</color>
+    <color name="conversation_background">#ff000000</color>
+    <color name="conversation_list_item_read">#C8CCCB</color>
+    <color name="conversation_list_item_unread">#ffffffff</color>
+    <color name="group_mms_setting_text_color">#ffffffff</color>
+    <color name="message_bubble_color_outgoing">#16161C</color>
+    <color name="message_bubble_color_selected">#47474D</color>
+    <color name="message_text_color_outgoing">#ffffffff</color>
+    <color name="mms_indicator_color">#ffffffff</color>
+    <color name="outgoing_message_bg">#ff000000</color>
+    <color name="participant_list_text_primary">#ffffffff</color>
+    <color name="participant_list_text_secondary">#C8CCCB</color>
+    <color name="primary_color">#2D2D33</color>
+    <color name="qm_count_color">#AAADAC</color>
+    <color name="qm_dialog_text_color">#C8CCCB</color>
+    <color name="qm_fading_edge_color">#ff000000</color>
+    <color name="qm_from_text_color">#ffffffff</color>
+    <color name="qm_recv_timestamp_text_color">#AAADAC</color>
+    <color name="timestamp_text_outgoing">#99ffffff</color>
+    <color name="background_primary">#ff000000</color>
+    <color name="primary_text_default_material_light">#ffffffff</color>
+</resources>

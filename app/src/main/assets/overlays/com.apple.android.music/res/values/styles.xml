@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="MusicNotification">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="MusicNotificationButton">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:clickable">true</item>
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Base.Widget.AppCompat.ActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:backgroundTint">@null</item>
+    </style>
+</resources>

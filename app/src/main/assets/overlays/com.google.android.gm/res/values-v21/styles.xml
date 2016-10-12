@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="AbstractComposeArea">
+        <item name="android:background">#ff000000</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:animateLayoutChanges">true</item>
+    </style>
+    <style name="UnifiedEmailTheme" parent="@android:style/Theme.Material" />
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+		<item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowNoTitle">true</item>
+		<item name="android:windowActionBar">false</item>
+        <item name="android:colorPrimary">#db4437</item> <!-- Actionbar -->
+        <item name="android:colorPrimaryDark">#b93221</item> <!-- Statusbar in settings -->
+        <item name="android:colorAccent">#ff4285f4</item>
+        <item name="android:colorControlActivated">#ff4285f4</item>
+    </style>
+    <style name="NotificationPrimaryText">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="NotificationSecondaryText">
+        <item name="android:textColor">#b3ffffff</item>
+    </style>
+</resources>

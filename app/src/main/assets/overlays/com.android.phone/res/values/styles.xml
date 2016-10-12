@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="EmergencyDialerTheme" parent="@android:style/Theme.Material.Settings" />
+    <style name="SimImportTheme" parent="@android:style/Theme.Material.Settings" />
+    <style name="Theme.Material.Settings" parent="@android:style/Theme.Material.Settings" />
+    <style name="NetworkOperatorsSettingsTheme" parent="@android:style/Theme.Material.Settings" />
+    <style name="DialerAlertDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="SettingsLight" parent="@android:style/Theme.Material.Settings" />
+</resources>

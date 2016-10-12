@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="black_20p_alpha">#ff000000</color> <!-- status bar -->
+	<color name="white_60p_alpha">#C8CCCB</color> <!-- "jump" text -->
+    <color name="black_10p_alpha">#1affffff</color> <!-- ripple at a few places -->
+    <color name="dark_grey_50p_alpha">#727278</color> <!-- emojis inactive -->
+    <color name="daterow_text">#727278</color> <!-- Date in chat -->
+    <color name="highlight">#47474D</color>
+    <color name="primary_text_default_material_light">#C8CCCB</color>
+    <color name="ripple_material_light">#33ffffff</color> <!-- Ripple color in menus and popups -->
+    <color name="sidebar_active_item_text">#ffffffff</color> <!-- Selected sidebar item -->
+    <color name="sidebar_bg">#56565C</color> <!-- Overview card, and Settings titles "Profile, Notifications, etc..." -->
+    <color name="sidebar_text_color">#C8CCCB</color> <!-- Actionbar and sidebar text -->
+    <color name="status_dot_available">#ffffffff</color> <!-- user status "available" -->
+    <color name="text_color">#C8CCCB</color> <!-- Chat and channel title -->
+    <color name="white">#ff000000</color> <!-- connecting text and cards in channel settings -->
+    <color name="dark_grey">@android:color/white</color> <!-- actions in popup menu when "/" is typed -->
+</resources>

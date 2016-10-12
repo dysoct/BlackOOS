@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:colorBackground">#ff000000</item>
+        <item name="android:colorAccent">#DBDBE1</item>
+        <item name="android:colorPrimaryDark">#054d44</item> <!-- Main Statusbar -->
+        <item name="android:colorPrimary">#075e54</item>
+        <item name="android:backgroundTint">#ff000000</item>
+    </style>
+    <style name="Platform.AppCompat" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:colorPrimaryDark">#054d44</item> <!-- Settings Statusbar -->
+        <item name="android:colorPrimary">#075e54</item>
+        <item name="android:colorControlActivated">#4E4E54</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>

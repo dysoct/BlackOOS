@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="qp_h4">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ddffffff</item>
+        <item name="android:lineSpacingMultiplier">1.2631578</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="qp_h5">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ccffffff</item>
+        <item name="android:lineSpacingMultiplier">1.2244898</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="qp_icon" parent="">
+        <item name="android:tint">#ffffffff</item>
+        <item name="android:layout_width">24.0dip</item>
+        <item name="android:layout_height">24.0dip</item>
+    </style>
+    <style name="qp_icon_no_tint">
+        <item name="android:layout_width">24.0dip</item>
+        <item name="android:layout_height">24.0dip</item>
+    </style>
+    <style name="opt_in_wizard_body" parent="">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#dd000000</item>
+        <item name="android:textColorLink">#ff4285f4</item>
+        <item name="android:lineSpacingMultiplier">1.2244898</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:layout_marginLeft">40.0dip</item>
+        <item name="android:layout_marginRight">40.0dip</item>
+        <item name="android:layout_marginStart">40.0dip</item>
+        <item name="android:layout_marginEnd">40.0dip</item>
+    </style>
+    <style name="opt_in_wizard_item">
+        <item name="android:layout_marginLeft">40.0dip</item>
+        <item name="android:layout_marginRight">40.0dip</item>
+        <item name="android:layout_marginStart">40.0dip</item>
+        <item name="android:layout_marginEnd">40.0dip</item>
+    </style>
+    <style name="WidgetCard">
+        <item name="android:background">@android:color/black</item>
+        <item name="android:padding">6.0dip</item>
+    </style>
+    <style name="RecurrenceTextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#9B9BA1</item>
+    </style>
+    <style name="SearchPlate.SearchBox" parent="@android:style/Widget.EditText">
+        <item name="android:background">#ff000000</item> <!-- Search Box in Google Now Launcher Drawer -->
+    </style>
+</resources>

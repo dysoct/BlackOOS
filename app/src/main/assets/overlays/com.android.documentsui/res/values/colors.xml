@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="material_grey_50">#ff000000</color>
+	<color name="material_grey_300">#2D2D33</color>
+	<color name="item_doc_grid_background">#ff333334</color>
+</resources>

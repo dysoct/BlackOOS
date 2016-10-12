@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="playback_noti_image_background_color">#ffffffff</color>
+    <color name="playback_noti_primary_text_color">#ffffffff</color>
+    <color name="playback_noti_secondary_text_color">#ffd0d0d0</color>
+</resources>

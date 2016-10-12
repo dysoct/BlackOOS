@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <attr name="color" format="color" />
+     <attr name="drawableSize" format="dimension" />
+     <attr name="gapBetweenBars" format="dimension" />
+     <attr name="barLength" format="dimension" />
+     <attr name="spinBars" format="boolean" />
+     <attr name="arrowHeadLength" format="dimension" />
+     <attr name="arrowShaftLength" format="dimension" />
+     <attr name="thickness" format="dimension" />
+ </resources>

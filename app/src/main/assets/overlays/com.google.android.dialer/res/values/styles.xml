@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="DialtactsTheme1" parent="android:Theme.Material">
+		<item name="android:colorPrimaryDark">#007BC4</item>
+	</style>
+    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorAccent">#0288d1</item>
+    </style>
+</resources>

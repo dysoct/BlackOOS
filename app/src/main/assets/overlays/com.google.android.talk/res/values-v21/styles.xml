@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="NotificationPrimaryText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="NotificationSecondaryText">
+        <item name="android:textColor">#ffd0d0d0</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:backgroundTint">#ff000000</item>
+    </style>
+    <style name="Platform.AppCompat" parent="@android:style/Theme.Material.Settings">
+        <item name="android:colorAccent">#ff0f9d58</item>
+        <item name="android:colorPrimaryDark">#0b8043</item>
+        <item name="android:colorControlActivated">#ff0f9d58</item>
+    </style>
+</resources>

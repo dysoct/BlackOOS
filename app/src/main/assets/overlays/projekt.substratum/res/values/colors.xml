@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_floating_material_light">#16161C</color>
+    <color name="background_material_light">@android:color/black</color>
+    <color name="cardview_light_background">@android:color/black</color>
+    <color name="default_background_color">@android:color/black</color>
+    <color name="fab_menu_background_card">#16161C</color>
+    <color name="fab_menu_divider">#303036</color>
+    <color name="fab_menu_icon_color">#ffffffff</color>
+    <color name="fab_menu_text_color">#ffffffff</color>
+    <color name="fab_speed_dial_icon">#ffffffff</color>
+    <color name="main_screen_card_background">@android:color/black</color>
+    <color name="main_screen_card_theme_author">#ffffffff</color>
+    <color name="main_screen_card_theme_title">#ffffffff</color>
+    <color name="material_drawer_background">@android:color/black</color>
+    <color name="material_drawer_header_selection_text">#ffffffff</color>
+    <color name="material_drawer_hint_icon">#ffffffff</color>
+    <color name="material_drawer_hint_text">#ffffffff</color>
+    <color name="material_drawer_icon_color">#ffffffff</color>
+    <color name="material_drawer_primary_icon">#ffffffff</color>
+    <color name="material_drawer_primary_text">#ffffffff</color>
+    <color name="material_drawer_secondary_text">#ffffffff</color>
+    <color name="material_drawer_selected">#28282e</color>
+    <color name="material_drawer_selected_text">#ffffffff</color>
+    <color name="primary_text_default_material_light">#ffffffff</color>
+    <color name="theme_information_background">@android:color/black</color>
+    <color name="theme_information_card_background">@android:color/black</color>
+    <color name="theme_information_card_subtext">#ffffffff</color>
+    <color name="theme_information_card_text">#ffffffff</color>
+</resources>

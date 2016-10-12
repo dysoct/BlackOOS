@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_floating_material_light">#ff000000</color>
+    <color name="brit">#ff000000</color>
+    <color name="compose_label_hint">#ff8C908F</color>
+    <color name="compose_label_text">#C8CCCB</color>
+    <color name="compose_user_text">#ffffffff</color>
+    <color name="conversation_item_grey_ripple_color">#20BBBBBB</color>
+    <color name="conversation_view_overlay_background_color">#ff000000</color>
+    <color name="conversation_view_text_color_dark">#ffffffff</color>
+    <color name="conversation_view_text_color_light">#C8CCCB</color>
+    <color name="default_account_details_color">#ffffffff</color>
+    <color name="divider_color">@android:color/transparent</color>
+    <color name="drawer_item_activated_background_color">#47474D</color>
+    <color name="folder_list_heading_text_color">#AAADAC</color>
+    <color name="gmail_accent">#ff4285f4</color>
+    <color name="gmail_bg">#ff000000</color>
+    <color name="gmail_primary">#ffda4336</color>
+    <color name="gmail_primarydark">#b93221</color>
+    <color name="icon_color">#ffffff</color> <!-- Icon Color -->
+    <color name="list_ad_background_color">#ff000000</color>
+    <color name="list_background_color">#ff000000</color>
+    <color name="manage_accounts_text_color">#C8CCCB</color>
+    <color name="message_header_background_color">#ff000000</color>
+    <color name="primary_dark_color">#b93221</color> <!-- Statusbar -->
+    <color name="primary_text">#DBDBE1</color>
+    <color name="search_banner_bg">#ff000000</color>
+    <color name="search_banner_text">#ffffff</color>
+    <color name="search_query_hint_text">#ff767676</color>
+    <color name="search_query_text">#ff222222</color>
+    <color name="search_suggestion_item_text">#ff767676</color>
+    <color name="senders_text_color">#ffffff</color>
+    <color name="snippet_text_color">#C8CCCB</color>
+    <color name="subject_text_color_read">#ffffffff</color>
+    <color name="subject_text_color_unread">#ffffff</color>
+    <color name="suw_navbar_bg_light">#ff000000</color>
+    <color name="suw_navbar_text_light">#ffffffff</color>
+    <color name="text_color_black">#ffB0B4B3</color>
+    <color name="text_color_grey">#C8CCCB</color>
+    <color name="tip_teaser_bg">#ff000000</color>
+    <color name="primary_color">#db4437</color> <!-- Actionbar -->
+</resources>

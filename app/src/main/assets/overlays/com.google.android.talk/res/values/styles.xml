@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Dialog.Alert" />
+    <style name="Theme.ShareDialog" parent="@android:style/Theme.Material.Dialog" />
+    <style name="horizontalDividerStyle">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+    </style>
+    <style name="ConversationListItemAvatarViewStyle">
+        <item name="android:paddingLeft">30.0dip</item>
+        <item name="android:paddingRight">2.0dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:backgroundTint">@null</item>
+    </style>
+    <style name="Toolbar" parent="@android:style/Widget.Material.Toolbar">
+        <item name="android:backgroundTint">@null</item>
+    </style>
+</resources>
