@@ -8,8 +8,8 @@ android {
         applicationId "substratum.teamonyx.blackoos"
         minSdkVersion 23
         targetSdkVersion 23
-        versionCode 8
-        versionName "lapan"
+        versionCode 9
+        versionName "sembilan"
     }
     buildTypes {
         def BOOLEAN = "boolean"

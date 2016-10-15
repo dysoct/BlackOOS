@@ -1,97 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
- 
-
 <resources>
-    <color name="accent">#ff0288D1</color>
-<color name="divider_line_color_light">#20000000</color>
-    <color name="action_bar_background">#ff0288D1</color>
-	<color name="dialer_theme_color">#ff0288D1</color>
-    <color name="dialer_theme_color_dark">#ff0277BD</color>
-	<color name="primary_color_dark">#ff0277BD</color>
-    <color name="primary_color">#ff0288D1</color>
-    <color name="primary_text_color">#ffffffff</color>
-    <color name="secondary_text_color">#ffffffff</color>
-    <color name="section_header_text_color">@android:color/white</color>
-	
-	 
-	<color name="card_margin_color">#ff0f0f0f</color>
-	<color name="cardview_light_background">#ff000000</color>
-    <color name="cardview_dark_background">#ff000000</color>
-    <color name="cardview_shadow_start_color">#37ffffff</color>
-    <color name="cardview_shadow_end_color">#03ffffff</color>
-	<color name="expanding_entry_card_item_separator_color">#ffe4e4e4</color>
-    <color name="expanding_entry_card_button_text_color">@android:color/white</color>
-    <color name="expanding_entry_card_background_color">#ff0e0e0e</color>
-	<color name="quickcontact_entry_sub_header_text_color">#fffafafa</color>
-	<color name="quickcontact_entry_header_text_color">#fff1f1f1</color>
-	
-	 
-    <color name="add_contact_background">#ff000000</color>
+    <color name="actionbar_icon_color">#ffffffff</color>
+    <color name="actionbar_text_color">#ffffffff</color>
+    <color name="actionbar_unselected_text_color">#a6ffffff</color>
     <color name="background_primary">#ff000000</color>
-    <color name="group_list_background_color">#ff000000</color>
-    <color name="contact_favorites_list_background_color">#ff000000</color>
+    <color name="card_margin_color">#ff000000</color>
+    <color name="cardview_light_background">#ff000000</color>
     <color name="contact_all_list_background_color">#ff000000</color>
-    <color name="holo_list_background_color">#ff000000</color>
-
-
-    <color name="action_bar_button_text_color">#ffffffff</color>
-    <color name="exposed_bg_dark">#ffffffff</color>
-    <color name="exposed_bg_light">#ffffffff</color>
-    <color name="exposed_primary_text_light">#ffffffff</color>
-    <color name="exposed_secondary_text_light">#fff5f5f5</color>
-    <color name="exposed_primary_text_dark">#ffffffff</color>
-    <color name="exposed_secondary_text_dark">#fff5f5f5</color>
-    <color name="exposed_ContactsActionBarTheme_hint">#ffcccccc</color>
-    <color name="exposed_ContactsActionBarTheme_text">#ffffffff</color>
-    <color name="exposed_EditKindTextAppearanceStyle">#ff000000</color>
-    <color name="exposed_ContactsActionBarTitleText">#ffffffff</color>
-    <color name="exposed_ContactsActionBarTabTextStyle">#ffffffff</color>
-    <color name="exposed_SectionDivider">#ff7e7e87</color>
-    <color name="exposed_contact_list_name_text_color">#fff5f5f5</color>
-    <color name="Widget.Material.Light.Button_TS">#ff555555</color>
-    <color name="dialtacts_secondary_text_color">#fffafafa</color>
-    <color name="searchbox_text_color">#ffffffff</color>
-    <color name="searchbox_background_color">#ff263238</color>
-    <color name="search_shortcut_background_color">#ff000000</color>
-    <color name="search_shortcut_icon_color">#fffafafa</color>
-    <color name="quickcontact_name_detail_background">#99ffffff</color>
-    <color name="dialtacts_primary_text_color">#ffffffff</color>
-    <color name="exposed_account_header_bg">#ff000000</color>
-    <color name="people_contact_tile_status_color">#ffffffff</color>
-    <color name="background_social_updates">#ff000000</color>
-    <color name="card_background_color">#60b0b0ee</color>
-    <color name="cardview_background">#ff000000</color>
-    <color name="main_header_separator_color">#1fffffff</color>
-    <color name="secondary_header_separator_color">#0fffffff</color>
-    <color name="people_app_theme_color">#ff000000</color>
-    <color name="searchbox_hint_text_color">#fffafafa</color>
-    <color name="searchbox_icon_tint">#fffafafa</color>
-    <color name="contacts_accent_color">#fffafafa</color>
-    <color name="text_highlight_color">#fffafafa</color>
+    <color name="contact_tile_text_color">#ffffffff</color>
+    <color name="contacts_accent_color">#ffffffff</color>
+    <color name="dialtacts_secondary_text_color">#C8CCCB</color>
+    <color name="primary_color">#0288d1</color> <!-- Actionbar -->
+    <color name="primary_color_dark">#0277bd</color> <!-- Statusbar -->
+    <color name="divider_line_color_light">#00000000</color>
     <color name="editor_account_header_bg">#ff000000</color>
-    <color name="contact_tile_text_color">#fffafafa</color>
-    <color name="frequent_contact_text_color">#fffafafa</color>
-    <color name="list_item_name_text_color">#fffafafa</color>
-    <color name="ripple_material_dark">#99ffffff</color>
-    <color name="floating_action_button_icon_color">#fffafafa</color>
-    <color name="actionbar_icon_color">#fffafafa</color>
+    <color name="editor_disabled_text_color">#C8CCCB</color>
+    <color name="frequent_contact_text_color">#ffffffff</color>
+    <color name="group_list_background_color">#ff000000</color>
+    <color name="icon_color">#ffffff</color> <!-- Icon Color -->
+    <color name="list_item_name_text_color">#ffffffff</color>
     <color name="list_item_pinned_header_color">#ff000000</color>
-    <color name="tab_ripple_color">#55fafafa</color>
-    <color name="tab_selected_underline_color">#ffffffff</color>
-    <color name="contact_list_name_text_color">#ffffffff</color>
-    <color name="background_dialpad">#ff000000</color>
-    <color name="background_dialpad_pressed">#ff37474f</color>
-    <color name="dialpad_primary_text_color">#fffafafa</color>
-    <color name="dialpad_secondary_text_color">#ffc0c0c0</color>
-    <color name="dialpad_digits_text_color">#ffc0c0c0</color>
-    <color name="dialpad_icon_tint">#fffafafa</color>
-    <color name="dialpad_voicemail_tint">#fffafafa</color>
-    <color name="contact_tile_shadow_box_color">#7f21272b</color>
-    <color name="shortcut_overlay_text_background">#7f21272b</color>
-    <color name="textColorIconOverlay">#fffafafa</color>
-    <color name="textColorIconOverlayShadow">#ff000000</color>
-    <color name="tab_accent_color">#fffafafa</color>
-    <color name="frequently_contacted_title_color">#fffafafa</color>
-    <color name="actionbar_text_color">#fffafafa</color>
-    <color name="actionbar_unselected_text_color">#a6fafafa</color>
+    <color name="people_app_theme_color">#ff363636</color>
+    <color name="primary_text_color">#ffffffff</color>
+    <color name="quickcontact_entry_header_text_color">#ffffffff</color>
+    <color name="quickcontact_entry_sub_header_text_color">#C8CCCB</color>
+    <color name="ripple_material_dark">#a0ffffff</color>
+    <color name="searchbox_background_color">#ff000000</color>
+    <color name="searchbox_text_color">#ffffffff</color>
+    <color name="secondary_text_color">#C8CCCB</color>
+    
+    <!-- Layers colors -->
+    
+    <color name="photo_text_bar_bg">#7F000000</color>
+    <color name="text_color_white">#ffffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="edit_kind_text_appearance_text_color">#363636</color>
+	
+	
+	<color name="primary_text_color">#ffffffff</color>
+	<color name="secondary_text_color">#ffffffff</color>
+	<color name="dialpad_digits_text_color">#ffffffff</color>
 </resources>
