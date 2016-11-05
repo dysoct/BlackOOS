@@ -8,8 +8,8 @@ android {
         applicationId "substratum.teamonyx.blackoos"
         minSdkVersion 23
         targetSdkVersion 23
-        versionCode 9
-        versionName "sembilan"
+        versionCode 11
+        versionName "sebelas"
     }
     buildTypes {
         def BOOLEAN = "boolean"
@@ -23,7 +23,7 @@ android {
             buildConfigField(BOOLEAN, ANTI_PIRACY, FALSE)
         }
         release {
-            minifyEnabled true
+            minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             buildConfigField(BOOLEAN, ANTI_PIRACY, FALSE)
         }
