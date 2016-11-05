@@ -1,17 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <style name="AttachPickerLabel">
-    <item name="android:ellipsize">end</item>
-    <item name="android:layout_height">wrap_content</item>
-    <item name="android:layout_width">wrap_content</item>
-    <item name="android:maxLines">1</item>
-    <item name="android:singleLine">true</item>
-    <item name="android:textColor">#ffffffff</item>
-  </style>
-  <style name="Base.ThemeOverlay.AppCompat.Dark" parent="@style/Platform.ThemeOverlay.AppCompat.Dark" />
-  <style name="Base.ThemeOverlay.AppCompat.Dark.ActionBar" parent="@style/Base.ThemeOverlay.AppCompat.Dark" />
-  <style name="Platform.ThemeOverlay.AppCompat" parent="" />
-  <style name="Platform.ThemeOverlay.AppCompat.Dark" parent="@style/Platform.ThemeOverlay.AppCompat" />
-  <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="@style/Base.ThemeOverlay.AppCompat.Dark.ActionBar" />
-  <style name="Toolbar" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <style name="CardTitle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Text" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:shadowColor">@android:color/white</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.0</item>
+        <item name="android:lineSpacingMultiplier">1.25</item>
+    </style>
+    <style name="Text.Description" parent="@android:style/TextAppearance">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:shadowColor">@android:color/white</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.0</item>
+        <item name="android:lineSpacingMultiplier">1.25</item>
+    </style>
+    <style name="Toolbar" parent="">
+        <item name="android:backgroundTint">@android:color/black</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColorSecondary">#ffffffff</item>
+    </style>
+    <style name="Theme.ActionBar.SubtitleTextStyle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle">
+        <item name="android:textSize">13.0dip</item>
+        <item name="android:textColor">#C8CCCB</item>
+    </style>
+    <style name="Theme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
 </resources>
